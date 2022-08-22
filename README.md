@@ -25,7 +25,7 @@ Talk to me about
 
 ### 👨‍💻 Open source work stats
 ![Hasai666 GitHub stats](https://github-readme-stats.vercel.app/api?username=HaSai666&show_icons=true&theme=tokyonight)
-
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='100"'>
 ### 📫 Reach me 
 - 💬 Ask me about anything.
 
