@@ -15,7 +15,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+ 
 ### ⚡ Technologies
 Talk to me about
 - Deep Learning with the **Pytorch/Tensorflow**
