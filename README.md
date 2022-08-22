@@ -5,7 +5,7 @@
   <a href="https://github.com/HaSai666/"><img src="https://img.shields.io/github/followers/MartinYan623?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
   <a href="https://github.com/HaSai666/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
   <a href="306178200@qq.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
-  <img src="https://wakatime.com/badge/github/Hasai666/My-Blog.svg"/>
+<a href="https://wakatime.com/badge/user/4f5f529d-94ee-4a12-94de-38e886b0219b/project/d096186b-ccff-4f48-8634-0933368ab051"><img src="https://wakatime.com/badge/user/4f5f529d-94ee-4a12-94de-38e886b0219b/project/d096186b-ccff-4f48-8634-0933368ab051.svg" alt="wakatime"></a>
  </p>
 
 🎉 Welcome to my Github! I'm **HaSai** 😃, a computer science graduate from Xi'an JiaoTong University 🏫.
