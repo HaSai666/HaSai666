@@ -14,6 +14,11 @@ I love to explore and learn about any new things ❤️.
 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
  
 ### ⚡ Technologies
