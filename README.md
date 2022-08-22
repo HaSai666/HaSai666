@@ -7,4 +7,4 @@
 ![Hasai666 GitHub stats](https://github-readme-stats.vercel.app/api?username=HaSai666&show_icons=true&theme=tokyonight)
 
 ### Get in touch
-![](Wechat.jpeg)
+<img src="Wechat.jpeg" width = "300" height = "300"  />
