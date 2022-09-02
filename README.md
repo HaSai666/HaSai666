@@ -16,12 +16,12 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 August 2022 - To: 30 August 2022
+From: 21 August 2022 - To: 31 August 2022
 
-Total Time: 4 hrs 28 mins
+Total Time: 5 hrs 23 mins
 
-Python     4 hrs 16 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.58 %
-Markdown   11 mins         >------------------------   04.39 %
+Python     5 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.34 %
+Markdown   11 mins         >------------------------   03.64 %
 YAML       0 secs          -------------------------   00.03 %
 ```
 
