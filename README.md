@@ -16,16 +16,16 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 August 2022 - To: 24 September 2022
+From: 21 August 2022 - To: 25 September 2022
 
-Total Time: 21 hrs 1 min
+Total Time: 21 hrs 41 mins
 
-Python           17 hrs 3 mins   >>>>>>>>>>>>>>>>>>>>-----   81.12 %
-YAML             1 hr 46 mins    >>-----------------------   08.40 %
-Bash             1 hr 10 mins    >------------------------   05.57 %
-Markdown         34 mins         >------------------------   02.76 %
-C++              14 mins         -------------------------   01.14 %
-GitIgnore file   7 mins          -------------------------   00.60 %
+Python           17 hrs 29 mins  >>>>>>>>>>>>>>>>>>>>-----   80.67 %
+YAML             1 hr 59 mins    >>-----------------------   09.17 %
+Bash             1 hr 10 mins    >------------------------   05.40 %
+Markdown         34 mins         >------------------------   02.68 %
+C++              14 mins         -------------------------   01.11 %
+GitIgnore file   7 mins          -------------------------   00.58 %
 ```
 
 <!--END_SECTION:waka-->
