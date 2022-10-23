@@ -16,7 +16,7 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 August 2022 - To: 21 October 2022
+From: 21 August 2022 - To: 22 October 2022
 
 Total Time: 33 hrs 39 mins
 
