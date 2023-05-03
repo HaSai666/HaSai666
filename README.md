@@ -16,12 +16,14 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2023 - To: 30 April 2023
+From: 25 April 2023 - To: 02 May 2023
 
-Total Time: 0 secs
+Total Time: 1 hr 29 mins
 
-YAML     0 secs          >>>>>>>>>>>>>>>>>>-------   71.41 %
-Python   0 secs          >>>>>>>------------------   28.59 %
+Python         1 hr 20 mins    >>>>>>>>>>>>>>>>>>>>>>---   89.27 %
+YAML           7 mins          >>-----------------------   08.65 %
+Shell Script   1 min           -------------------------   01.36 %
+Bash           0 secs          -------------------------   00.71 %
 ```
 
 <!--END_SECTION:waka-->
