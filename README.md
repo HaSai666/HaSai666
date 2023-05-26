@@ -16,15 +16,15 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 May 2023 - To: 24 May 2023
+From: 18 May 2023 - To: 25 May 2023
 
-Total Time: 7 hrs 29 mins
+Total Time: 7 hrs 20 mins
 
-Python           6 hrs 20 mins   >>>>>>>>>>>>>>>>>>>>>----   84.56 %
-Docker           28 mins         >>-----------------------   06.41 %
-YAML             28 mins         >>-----------------------   06.30 %
-GitIgnore file   5 mins          -------------------------   01.14 %
-JSON             3 mins          -------------------------   00.88 %
+Python         5 hrs 45 mins   >>>>>>>>>>>>>>>>>>>>-----   78.44 %
+YAML           50 mins         >>>----------------------   11.53 %
+Docker         31 mins         >>-----------------------   07.13 %
+Bash           6 mins          -------------------------   01.55 %
+JSON           3 mins          -------------------------   00.90 %
 ```
 
 <!--END_SECTION:waka-->
