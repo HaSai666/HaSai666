@@ -15,16 +15,16 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown  
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
-Total Time: 12 hrs 26 mins
+Total Time: 11 hrs 14 mins
 
-Python         11 hrs 24 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.73 %
-Markdown       28 mins         >------------------------   03.81 %
-Shell Script   12 mins         -------------------------   01.71 %
-YAML           9 mins          -------------------------   01.27 %
-Docker         9 mins          -------------------------   01.26 %
+Python         9 hrs 49 mins   >>>>>>>>>>>>>>>>>>>>>>---   87.43 %
+Markdown       28 mins         >------------------------   04.22 %
+YAML           23 mins         >------------------------   03.45 %
+Bash           18 mins         >------------------------   02.68 %
+Docker         9 mins          -------------------------   01.39 %
 ```
 
 <!--END_SECTION:waka-->
