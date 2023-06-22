@@ -16,7 +16,7 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2023 - To: 20 June 2023
+From: 14 June 2023 - To: 21 June 2023
 
 Total Time: 2 hrs 29 mins
 
