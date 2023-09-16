@@ -16,12 +16,12 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2023 - To: 14 September 2023
+From: 08 September 2023 - To: 15 September 2023
 
-Total Time: 5 hrs 43 mins
+Total Time: 2 hrs 20 mins
 
-Python     5 hrs 15 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.86 %
-Markdown   27 mins         >>-----------------------   08.13 %
+Python     1 hr 52 mins    >>>>>>>>>>>>>>>>>>>>-----   80.06 %
+Markdown   27 mins         >>>>>--------------------   19.93 %
 Bash       0 secs          -------------------------   00.01 %
 ```
 
