@@ -16,14 +16,14 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2023 - To: 06 October 2023
+From: 30 September 2023 - To: 07 October 2023
 
-Total Time: 4 hrs 1 min
+Total Time: 4 hrs 8 mins
 
-Python      3 hrs 12 mins   >>>>>>>>>>>>>>>>>>>>-----   79.82 %
-Markdown    25 mins         >>>----------------------   10.69 %
-YAML        20 mins         >>-----------------------   08.71 %
-GDScript3   1 min           -------------------------   00.77 %
+Python      3 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>-----   79.89 %
+Markdown    25 mins         >>>----------------------   10.11 %
+YAML        22 mins         >>-----------------------   09.24 %
+GDScript3   1 min           -------------------------   00.74 %
 Text        0 secs          -------------------------   00.02 %
 ```
 
