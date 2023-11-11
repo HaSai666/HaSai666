@@ -16,15 +16,15 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2023 - To: 08 November 2023
+From: 03 November 2023 - To: 10 November 2023
 
-Total Time: 22 hrs 49 mins
+Total Time: 22 hrs 52 mins
 
-Python            18 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>-----   80.41 %
-YAML              1 hr 47 mins    >>-----------------------   07.86 %
-Markdown          53 mins         >------------------------   03.91 %
-Bash              26 mins         -------------------------   01.96 %
-Shell Script      24 mins         -------------------------   01.82 %
+Python            18 hrs 45 mins  >>>>>>>>>>>>>>>>>>>>>----   82.00 %
+YAML              1 hr 32 mins    >>-----------------------   06.76 %
+Markdown          53 mins         >------------------------   03.90 %
+Bash              38 mins         >------------------------   02.84 %
+Text              20 mins         -------------------------   01.50 %
 ```
 
 <!--END_SECTION:waka-->
