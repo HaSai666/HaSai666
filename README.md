@@ -16,13 +16,13 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 10 November 2023 - To: 17 November 2023
 
-Total Time: 6 hrs 8 mins
+Total Time: 33 mins
 
-Python   5 hrs 49 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.93 %
-Bash     13 mins         >------------------------   03.58 %
-YAML     5 mins          -------------------------   01.49 %
+Python         32 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.28 %
+YAML           0 secs          -------------------------   00.65 %
+Shell Script   0 secs          -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
