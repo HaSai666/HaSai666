@@ -16,13 +16,15 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2023 - To: 25 December 2023
+From: 19 December 2023 - To: 26 December 2023
 
-Total Time: 3 hrs 18 mins
+Total Time: 4 hrs 14 mins
 
-Python           3 hrs 5 mins    >>>>>>>>>>>>>>>>>>>>>>>--   93.65 %
-Jupyter          9 mins          >------------------------   04.85 %
-GitIgnore file   2 mins          -------------------------   01.50 %
+Python             4 hrs           >>>>>>>>>>>>>>>>>>>>>>>>-   94.45 %
+GitIgnore file     7 mins          >------------------------   02.75 %
+Jupyter            2 mins          -------------------------   01.09 %
+Markdown           2 mins          -------------------------   00.89 %
+Requirements.txt   2 mins          -------------------------   00.82 %
 ```
 
 <!--END_SECTION:waka-->
