@@ -16,15 +16,15 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2024 - To: 12 March 2024
+From: 06 March 2024 - To: 13 March 2024
 
-Total Time: 16 hrs 39 mins
+Total Time: 16 hrs 16 mins
 
-Python              16 hrs 2 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.24 %
-CSV/TSV             8 mins          -------------------------   00.90 %
-Text                7 mins          -------------------------   00.78 %
-BibTeX              3 mins          -------------------------   00.39 %
-TeX                 3 mins          -------------------------   00.35 %
+Python              15 hrs 38 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.04 %
+CSV/TSV             9 mins          -------------------------   00.95 %
+Text                7 mins          -------------------------   00.80 %
+BibTeX              3 mins          -------------------------   00.40 %
+TeX                 3 mins          -------------------------   00.36 %
 ```
 
 <!--END_SECTION:waka-->
