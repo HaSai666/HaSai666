@@ -16,15 +16,15 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2024 - To: 21 June 2024
+From: 15 June 2024 - To: 22 June 2024
 
-Total Time: 6 hrs 35 mins
+Total Time: 5 hrs 6 mins
 
-Python             5 hrs 57 mins   >>>>>>>>>>>>>>>>>>>>>>>--   90.39 %
-Bash               18 mins         >------------------------   04.68 %
-YAML               11 mins         >------------------------   02.81 %
-JSON               3 mins          -------------------------   00.81 %
-Shell Script       2 mins          -------------------------   00.68 %
+Python             4 hrs 31 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.62 %
+Bash               18 mins         >>-----------------------   06.05 %
+YAML               11 mins         >------------------------   03.64 %
+Shell Script       2 mins          -------------------------   00.87 %
+CSV/TSV            2 mins          -------------------------   00.80 %
 ```
 
 <!--END_SECTION:waka-->
