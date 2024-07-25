@@ -16,11 +16,11 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2024 - To: 23 July 2024
+From: 17 July 2024 - To: 24 July 2024
 
-Total Time: 1 hr 30 mins
+Total Time: 1 hr 51 mins
 
-Python   1 hr 30 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Python   1 hr 51 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
