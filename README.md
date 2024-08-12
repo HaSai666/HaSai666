@@ -16,13 +16,13 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2024 - To: 10 August 2024
+From: 04 August 2024 - To: 11 August 2024
 
 Total Time: 0 secs
 
-Python         0 secs          >>>>>>>>>>>>>>>>>>>>>----   84.82 %
-Shell Script   0 secs          >>>>---------------------   14.92 %
-JSON           0 secs          -------------------------   00.25 %
+Python         0 secs          >>>>>>>>>>>>>>>>>--------   68.99 %
+Shell Script   0 secs          >>>>>>>>-----------------   30.50 %
+JSON           0 secs          -------------------------   00.51 %
 ```
 
 <!--END_SECTION:waka-->
