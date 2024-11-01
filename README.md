@@ -16,15 +16,15 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2024 - To: 30 October 2024
+From: 24 October 2024 - To: 31 October 2024
 
-Total Time: 12 hrs 22 mins
+Total Time: 12 hrs 46 mins
 
-Python             10 hrs 36 mins  >>>>>>>>>>>>>>>>>>>>>----   85.64 %
-YAML               44 mins         >>-----------------------   06.02 %
-Other              40 mins         >------------------------   05.42 %
-Requirements.txt   9 mins          -------------------------   01.29 %
-Text               5 mins          -------------------------   00.75 %
+Python             11 hrs 36 mins  >>>>>>>>>>>>>>>>>>>>>>>--   90.95 %
+YAML               44 mins         >------------------------   05.83 %
+Other              18 mins         >------------------------   02.44 %
+Bash               3 mins          -------------------------   00.45 %
+textmate           1 min           -------------------------   00.23 %
 ```
 
 <!--END_SECTION:waka-->
