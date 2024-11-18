@@ -16,7 +16,7 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
 Total Time: 33 mins
 
