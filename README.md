@@ -16,12 +16,12 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2024 - To: 12 December 2024
+From: 06 December 2024 - To: 13 December 2024
 
-Total Time: 11 mins
+Total Time: 1 hr 26 mins
 
-Python   11 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.43 %
-Other    0 secs          -------------------------   01.57 %
+Python   1 hr 25 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.20 %
+Other    0 secs          -------------------------   00.80 %
 ```
 
 <!--END_SECTION:waka-->
