@@ -16,14 +16,14 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2025 - To: 30 January 2025
+From: 24 January 2025 - To: 31 January 2025
 
-Total Time: 1 hr 39 mins
+Total Time: 1 hr 53 mins
 
-Python             1 hr 26 mins    >>>>>>>>>>>>>>>>>>>>>>---   86.80 %
-Requirements.txt   11 mins         >>>----------------------   11.45 %
-GitIgnore file     1 min           -------------------------   01.26 %
-Markdown           0 secs          -------------------------   00.41 %
+Python             1 hr 40 mins    >>>>>>>>>>>>>>>>>>>>>>---   88.39 %
+Requirements.txt   11 mins         >>>----------------------   10.07 %
+GitIgnore file     1 min           -------------------------   01.11 %
+Markdown           0 secs          -------------------------   00.36 %
 Text               0 secs          -------------------------   00.07 %
 ```
 
