@@ -16,11 +16,11 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2025 - To: 04 February 2025
+From: 29 January 2025 - To: 05 February 2025
 
-Total Time: 1 hr 32 mins
+Total Time: 1 hr 16 mins
 
-Python   1 hr 32 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Python   1 hr 16 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
