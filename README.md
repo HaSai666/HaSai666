@@ -16,12 +16,12 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2025 - To: 14 April 2025
+From: 08 April 2025 - To: 15 April 2025
 
-Total Time: 0 secs
+Total Time: 39 mins
 
-Other    0 secs          >>>>>>>>>>>>>>>>>>>>-----   80.12 %
-Python   0 secs          >>>>>--------------------   19.88 %
+Python   38 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.71 %
+Other    0 secs          -------------------------   01.29 %
 ```
 
 <!--END_SECTION:waka-->
