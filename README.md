@@ -16,12 +16,12 @@ I love to explore and learn about any new things ❤️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2025 - To: 23 September 2025
+From: 17 September 2025 - To: 24 September 2025
 
-Total Time: 37 mins
+Total Time: 35 mins
 
-Other    24 mins         >>>>>>>>>>>>>>>>>--------   66.23 %
-Python   12 mins         >>>>>>>>-----------------   33.77 %
+Other    24 mins         >>>>>>>>>>>>>>>>>--------   69.77 %
+Python   10 mins         >>>>>>>>-----------------   30.23 %
 ```
 
 <!--END_SECTION:waka-->
