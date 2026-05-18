@@ -44,27 +44,29 @@ My work centers on turning market data, statistical signals, and engineering dis
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaSai666&show_icons=true&theme=tokyonight&hide_border=true" alt="HaSai666 GitHub stats" />
-</p>
+| Overview | Streak |
+| --- | --- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaSai666&theme=tokyonight" alt="HaSai666 GitHub stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=HaSai666&theme=tokyonight&hide_border=true" alt="HaSai666 GitHub streak" /> |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HaSai666&theme=tokyonight&hide_border=true" alt="HaSai666 GitHub streak" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaSai666&theme=tokyonight" alt="HaSai666 GitHub contribution summary" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaSai666&theme=tokyonight" alt="HaSai666 GitHub contribution summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaSai666&layout=compact&theme=tokyonight&hide_border=true" alt="HaSai666 top languages" />
-</p>
+| Languages by Repository | Languages by Commit |
+| --- | --- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaSai666&theme=tokyonight" alt="HaSai666 top languages by repository" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaSai666&theme=tokyonight" alt="HaSai666 top languages by commit" /> |
 
 ### Contact
 
-- Email: [306178200@qq.com](mailto:306178200@qq.com)
-- GitHub: [HaSai666](https://github.com/HaSai666)
-
-<p>
-  <img src="Wechat.jpeg" width="260" alt="WeChat QR code" />
-</p>
+<table>
+  <tr>
+    <td>
+      <strong>Email</strong><br />
+      <a href="mailto:306178200@qq.com">306178200@qq.com</a>
+      <br /><br />
+      <strong>GitHub</strong><br />
+      <a href="https://github.com/HaSai666">HaSai666</a>
+    </td>
+    <td>
+      <img src="Wechat.jpeg" width="220" alt="WeChat QR code" />
+    </td>
+  </tr>
+</table>
