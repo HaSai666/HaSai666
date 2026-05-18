@@ -1,41 +1,70 @@
-## Hi there 👋🤓
+<h1 align="center">Hi, I'm HaSai</h1>
 
- <p>
-  <img src="http://views.whatilearened.today/views/github/HaSai666/views.svg"/>
-  <a href="https://github.com/HaSai666/"><img src="https://img.shields.io/github/followers/HaSai666?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-  <a href="https://github.com/HaSai666/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-  <a href="306178200@qq.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
-<a href="https://wakatime.com/badge/user/4f5f529d-94ee-4a12-94de-38e886b0219b/project/d096186b-ccff-4f48-8634-0933368ab051"><img src="https://wakatime.com/badge/user/4f5f529d-94ee-4a12-94de-38e886b0219b/project/d096186b-ccff-4f48-8634-0933368ab051.svg" alt="wakatime"></a>
- </p>
+<p align="center">
+  <strong>Quant Researcher</strong> | Python | Statistical Modeling | Factor Research | Backtesting
+</p>
 
-🎉 Welcome to my Github! I'm **HaSai** 😃, a computer science graduate from Xi'an JiaoTong University 🏫.
-Following my passion for programming, I am a **software engineer** who is passionate about Recommendation System, Machine Learning and open-source 🔥. 
-I love to explore and learn about any new things ❤️.
+<p align="center"> 
+  <img src="http://views.whatilearened.today/views/github/HaSai666/views.svg" alt="profile views" />
+  <a href="https://github.com/HaSai666">
+    <img src="https://img.shields.io/github/followers/HaSai666?color=2ea043&label=GitHub%20Followers" alt="GitHub followers" />
+  </a>
+  <a href="mailto:306178200@qq.com">
+    <img src="https://img.shields.io/badge/Email-306178200%40qq.com-0969da" alt="Email" />
+  </a>
+</p>
 
-### 📊 Weekly development breakdown  
-<!--START_SECTION:waka-->
+---
 
-```txt
-From: 09 May 2026 - To: 16 May 2026
+I'm a computer science graduate from Xi'an Jiaotong University, now focused on quantitative research.
 
-Total Time: 0 secs
+My work centers on turning market data, statistical signals, and engineering discipline into research that can be tested, reproduced, and improved.
 
-No activity tracked
-```
+### Research Focus
 
-<!--END_SECTION:waka-->
- 
-### ⚡ Technologies
-Talk to me about
-- Deep Learning with the **Pytorch/Tensorflow**
-- Kaggle Competition about the **Recommendation System**
-- Any **Recall/Rank/ReRank** algorithm in the Recommendation System
-- Structure of the **Recommendation System**
+- Alpha factor research, signal evaluation, and portfolio construction
+- Cross-sectional and time-series modeling for financial markets
+- Backtesting frameworks, performance attribution, and risk analysis
+- Data pipelines for market data cleaning, feature generation, and experiment tracking
+- Machine learning methods applied to structured financial data
 
-### 👨‍💻 Open source work stats
-![Hasai666 GitHub stats](https://github-readme-stats.vercel.app/api?username=HaSai666&show_icons=true&theme=tokyonight)
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width = "200" height = "200">
-### 📫 Reach me 
-- 💬 Ask me about anything.
+### Technical Stack
 
-<img src="Wechat.jpeg" width = "300" height = "300"  />
+- **Languages:** Python, SQL, C++
+- **Quant & Data:** pandas, NumPy, SciPy, statsmodels, scikit-learn
+- **ML/DL:** PyTorch, TensorFlow
+- **Research Workflow:** Jupyter, Git, Linux, reproducible experiments
+- **Previous Domain:** recommendation systems, recall/rank/rerank modeling
+
+### Current Focus
+
+- Building cleaner factor research and backtesting workflows
+- Improving research notes, experiment tracking, and model evaluation discipline
+- Exploring how LLM-assisted tooling can speed up quant research without weakening reproducibility
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaSai666&show_icons=true&theme=tokyonight&hide_border=true" alt="HaSai666 GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HaSai666&theme=tokyonight&hide_border=true" alt="HaSai666 GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaSai666&theme=tokyonight" alt="HaSai666 GitHub contribution summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaSai666&layout=compact&theme=tokyonight&hide_border=true" alt="HaSai666 top languages" />
+</p>
+
+### Contact
+
+- Email: [306178200@qq.com](mailto:306178200@qq.com)
+- GitHub: [HaSai666](https://github.com/HaSai666)
+
+<p>
+  <img src="Wechat.jpeg" width="260" alt="WeChat QR code" />
+</p>
